@@ -12,10 +12,10 @@
     "@sanity/base": "2.23.2",
     "@sanity/components": "2.14.0",
 
-    "@sanity/core": "2.22.0",
-    "@sanity/default-layout": "2.22.0",
-    "@sanity/default-login": "2.22.0",
-    "@sanity/desk-tool": "2.22.2",
+    "@sanity/core": "2.23.2",
+    "@sanity/default-layout": "2.23.2",
+    "@sanity/default-login": "2.23.2",
+    "@sanity/desk-tool": "2.23.2",
     "prop-types": "15.8.0",
 
     "react": "16.14.0",
