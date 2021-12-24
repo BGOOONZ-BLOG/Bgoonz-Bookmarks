@@ -1,7 +1,7 @@
 # Bookmarks
 
 
-## [WEBSITE](https://bgoonz-bookmarks.netlify.app/
+## [WEBSITE](https://bgoonz-bookmarks.netlify.app/)
 
 
 
