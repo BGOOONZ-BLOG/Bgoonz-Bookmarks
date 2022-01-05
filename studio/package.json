@@ -15,7 +15,7 @@
     "@sanity/default-layout": "2.21.4",
     "@sanity/default-login": "2.21.4",
     "@sanity/desk-tool": "2.21.4",
-    "prop-types": "15.7.2",
+    "prop-types": "15.8.1",
     "react": "16.14.0",
     "react-dom": "16.14.0",
     "@sanity/cli": "2.21.4",
