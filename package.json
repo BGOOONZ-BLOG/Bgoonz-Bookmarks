@@ -26,7 +26,7 @@
     "react-html-parser": "2.0.2",
     "react-script-tag": "1.1.2",
     "sourcebit": "0.9.0",
-    "sourcebit-source-sanity": "0.4.3",
+    "sourcebit-source-sanity": "0.4.4",
     "sourcebit-target-next": "0.5.2",
     "sprintf-js": "1.1.2"
   }
